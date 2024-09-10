@@ -1,0 +1,47 @@
+0e1e138 - fernandorogo, 3 minutes ago : Se reorganiza el proyecto con la ayuda de los colaboradores a traves del uso de ramas (branch) como estrategia aplicada de la metodologia Scrum - de metodologias agiles
+ed7fdc8 - fernandorogo, 53 minutes ago : Merge branch 'main' of https://github.com/fernandorogo/ucn-services
+66a89c7 - fernandorogo, 54 minutes ago : Merge pull request #13 from fernandorogo/angieh
+2a40591 - fernandorogo, 54 minutes ago : Merge branch 'main' into angieh
+ac87ace - fernandorogo, 2 hours ago : Merge branch 'main' of https://github.com/fernandorogo/ucn-services
+b192c41 - fernandorogo, 5 hours ago : Se cargan todos los nuevos archivos
+9d54587 - angiehenao, 5 hours ago : se crea el perfil de angie en la carpeta view
+842abf3 - fernandorogo, 6 hours ago : Merge pull request #9 from fernandorogo/nia
+dd75dd1 - fernandorogo, 6 hours ago : Merge pull request #7 from fernandorogo/dannymor
+bb5af68 - danielagonzalez5, 6 hours ago : eliminando perfil1.html
+1c0af21 - Harte-Isis, 6 hours ago : se actualiza hoja de vida
+0398712 - danielagonzalez5, 6 hours ago : prueba83
+8ffbeef - danielagonzalez5, 6 hours ago : prueba de carga 2
+042c573 - danielagonzalez5, 6 hours ago : probando
+f0882a5 - danielagonzalez5, 6 hours ago : se recupera el archivo perfil11111111
+d922c4e - danielagonzalez5, 6 hours ago : se recupera el archivo perfil1
+53378c5 - danielagonzalez5, 6 hours ago : se recupera el archivo perfil1
+8ede710 - danielagonzalez5, 6 hours ago : Se actualiza hoja de vida
+5421074 - fernandorogo, 6 hours ago : Merge pull request #1 from fernandorogo/garango
+c365f82 - Antonio Ibarra, 6 hours ago : Se agreagn puntos a la card de garango para realizar prueba de carga de archivos
+b091bb3 - Antonio Ibarra, 6 hours ago : Merge branch 'garango' of https://github.com/fernandorogo/ucn-services into garango
+e1d8a14 - Antonio Ibarra, 6 hours ago : Se actualiza informacion
+ddf93a8 - fernandorogo, 6 hours ago : Merge pull request #4 from fernandorogo/main
+0e7e1ad - Antonio Ibarra, 6 hours ago : Se modifico
+28d2ff9 - fernandorogo, 7 hours ago : Merge pull request #5 from fernandorogo/rojas
+c0f0afd - Jeronimo Rojas, 7 hours ago : se actulizo la foto de jeronimo
+3605b27 - Jeronimo Rojas, 7 hours ago : se actualizo la carta de jeronimo
+32e87db - Antonio Ibarra, 7 hours ago : Se modifico imagen
+f034ab1 - fernandorogo, 7 hours ago : Merge pull request #3 from fernandorogo/rojas
+81e5039 - fernandorogo, 8 hours ago : Merge pull request #2 from fernandorogo/sagradostyle
+1c3f0d7 - Jeronimo Rojas, 8 hours ago : Se actualizaron los datos de la hojas de vida
+a9766c2 - luisgaleano10, 8 hours ago : se actualiza hoja de vida
+cdbe406 - Antonio Ibarra, 8 hours ago : Actualizacion de los datos de la hoja de vida
+e87957b - angiehenao, 8 hours ago : Sincronizando proyecto y creando archivo angie.html
+1958a0e - danielagonzalez5, 9 hours ago : daniela
+d9858d9 - Jeronimo Rojas, 9 hours ago : Se crea copia del archivo jeronimo.html
+9a8dee4 - Harte-Isis, 9 hours ago : se crea el perfil de estefanya en la carpeta view
+bdf9b50 - luisgaleano10, 9 hours ago : se crea el perfil luis dentro de la carpeta wie
+a60fb7e - Antonio Ibarra, 9 hours ago : Se modifico el link de GitHub y Linkedin
+23a1432 - Antonio Ibarra, 9 hours ago : Se modifico el nombre, profesion, correo electronico y numero de telefono
+f85431f - fernandorogo, 10 hours ago : Se modifico el perfil del archivo jeronimo.html
+0eb8983 - fernandorogo, 11 hours ago : Se modifican los nombre de los perfiles de cada uno de los estudiantes del grupo.
+6f20174 - fernandorogo, 6 days ago : CArgando configuracion para la practuca de  ucn-scrum
+69940df - fernandorogo, 7 days ago : Se han creado las ramas el equipo
+142f54e - fernandorogo, 7 days ago : Se actualiza el proyecto creando las card + un perfil de hoja de vida
+2585ad6 - fernandorogo, 7 days ago : Se actualizo el index creando un total de 9 Card para los perfiles de los estudiantes
+20a0c83 - fernandorogo, 7 days ago : inicio del proyecto escrum ucn
